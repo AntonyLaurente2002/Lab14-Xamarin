@@ -1,0 +1,16 @@
+C:\Users\ANTONY\Source\Repos\Database2022\Database2022\Database2022\bin\Debug\netstandard2.1\Database2022.deps.json
+C:\Users\ANTONY\Source\Repos\Database2022\Database2022\Database2022\bin\Debug\netstandard2.1\Database2022.dll
+C:\Users\ANTONY\Source\Repos\Database2022\Database2022\Database2022\bin\Debug\netstandard2.1\Database2022.pdb
+C:\Users\ANTONY\Source\Repos\Database2022\Database2022\Database2022\obj\Debug\netstandard2.1\Database2022.csproj.AssemblyReference.cache
+C:\Users\ANTONY\Source\Repos\Database2022\Database2022\Database2022\obj\Debug\netstandard2.1\Database2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANTONY\Source\Repos\Database2022\Database2022\Database2022\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Users\ANTONY\Source\Repos\Database2022\Database2022\Database2022\obj\Debug\netstandard2.1\MainPage.xaml.g.cs
+C:\Users\ANTONY\Source\Repos\Database2022\Database2022\Database2022\obj\Debug\netstandard2.1\Views\PeopleView.xaml.g.cs
+C:\Users\ANTONY\Source\Repos\Database2022\Database2022\Database2022\obj\Debug\netstandard2.1\Database2022.AssemblyInfoInputs.cache
+C:\Users\ANTONY\Source\Repos\Database2022\Database2022\Database2022\obj\Debug\netstandard2.1\Database2022.AssemblyInfo.cs
+C:\Users\ANTONY\Source\Repos\Database2022\Database2022\Database2022\obj\Debug\netstandard2.1\Database2022.csproj.CoreCompileInputs.cache
+C:\Users\ANTONY\Source\Repos\Database2022\Database2022\Database2022\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Users\ANTONY\Source\Repos\Database2022\Database2022\Database2022\obj\Debug\netstandard2.1\Database2022.dll
+C:\Users\ANTONY\Source\Repos\Database2022\Database2022\Database2022\obj\Debug\netstandard2.1\refint\Database2022.dll
+C:\Users\ANTONY\Source\Repos\Database2022\Database2022\Database2022\obj\Debug\netstandard2.1\Database2022.pdb
+C:\Users\ANTONY\Source\Repos\Database2022\Database2022\Database2022\obj\Debug\netstandard2.1\ref\Database2022.dll
